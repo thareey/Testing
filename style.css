@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    background-color: blue;
+    color: white;
+    font-size: 60px;
+    padding: 10px;
+    margin: 10px;
+}
+
+P {
+    background-color: red;
+    color: aquamarine;
+}
+
+*second {
+background-color: purple;
+color: #000;
+}
+
+#para2 {
+    background-color: #000;
+    color: #fff;
+}
